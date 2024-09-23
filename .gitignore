@@ -1,0 +1,49 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Django
+*.sqlite3
+db.sqlite3
+/media
+/staticfiles
+*.log
+*.pot
+*.py[cod]
+*.env
+.venv/
+env/
+venv/
+env.bak/
+*.DS_Store
+*.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.idea/
+.vscode/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
